@@ -17,5 +17,15 @@ clf.fit(features, labels)
 img = misc.imread("tests/7.jpg")
 img = misc.imresize(img, (8,8))
 img = img.astype(digits.images.dtype)
-print(features[-1])
-print(img)
+img = misc.bytescale(img, high=16, low=0)
+
+
+x_test = []
+
+for eachRow in img:
+    for eachPixel in eachRow:
+        x_test.append(sum(eachPixel)/3.0)
+
+
+
+print(clf.predict([x_test]))
