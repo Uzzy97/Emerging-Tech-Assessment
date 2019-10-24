@@ -14,7 +14,7 @@ clf.fit(features, labels)
 
 
 
-img = misc.imread("tests/7.jpg")
+img = misc.imread("tests/8.jpg")
 img = misc.imresize(img, (8,8))
 img = img.astype(digits.images.dtype)
 img = misc.bytescale(img, high=16, low=0)
