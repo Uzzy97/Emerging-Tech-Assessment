@@ -1,0 +1,56 @@
+#canvasHeader {
+    position: absolute;
+    top: 1%;
+    left: 10%;
+  }
+  
+  #canvasInfo {
+    position: absolute;
+    top: 2%;
+    left: 10%;
+  }
+  
+  #canvas {
+    position: absolute;
+    top: 10%;
+    left: 10%;
+    border: 2px solid black;
+  }
+  
+  #canvasimg {
+    position: absolute;
+    top: 10%;
+    left: 52%;
+    display: none;
+  }
+  
+  #saveButton {
+    position: absolute;
+    top: 82%;
+    left: 22.5%;
+  }
+  
+  #clearButton {
+    position: absolute;
+    top: 82%;
+    left: 27%;
+  }
+  
+  #predictedNumberHeader {
+    position: absolute;
+    top: 35%;
+    left: 45%;
+  }
+  
+  #predictedNumber {
+    position: absolute;
+    top: 35%;
+    left: 62.5%;
+  }
+  
+  #verticalLine {
+    position: absolute;
+    width: .2%;
+    height: 100%;
+    left: 75%;
+  }
