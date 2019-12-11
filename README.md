@@ -65,3 +65,29 @@ plt.plot(x, y, 'k.')
 
 ### References to Keras
 * https://keras.io/
+
+![Image description](https://www.lewuathe.com/assets/img/posts/2019-03-06-annoucements-in-tensorflow-dev-summit-2019/catch.png)
+TensorFlow is an end-to-end open source platform for machine learning. It has a comprehensive, flexible ecosystem of tools, libraries and community resources that lets researchers push the state-of-the-art in ML and developers easily build and deploy ML powered applications. https://www.tensorflow.org/
+
+Uses of TensorFlow:
+
+1. Voice/Sound Recognition
+2. Text Based Applications
+3. Image Recognition
+4. Time Series
+5. Video Detection
+
+#### Image Recognition
+For our project we have to convert hand-written digits to images. Using TensorFlow we can then predict what number the user had drawn.
+
+
+![Image description](https://i2.wp.com/dataaspirant.com/wp-content/uploads/2017/05/Mnist-database-hand-written-digits.png?resize=530%2C297)
+
+### References to Keras
+* https://www.exastax.com/deep-learning/top-five-use-cases-of-tensorflow/
+
+![Image description](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Flask_logo.svg/1200px-Flask_logo.svg.png)
+
+Flask
+
+https://www.palletsprojects.com/p/flask/
