@@ -12,9 +12,6 @@ Machine learning is a method of data analysis that automates analytical model bu
 Keras is a high-level neural networks API, written in Python and capable of running on top of TensorFlow. Keras supports both convolutional networks and recurrent networks, as well as combinations of the two. It is designed to enable fast experimentation with deep neural networks. 
 Before installing Keras, I install one of its backend engines - In this project, I have used the TensorFlow backend, which is also recommened professionally.
 
-### References to Keras
-* https://keras.io/
-
 ### Neurons in keras 
 
 ```python
@@ -65,3 +62,6 @@ y
 # Plot the values.
 plt.plot(x, y, 'k.')
 ```
+
+### References to Keras
+* https://keras.io/
