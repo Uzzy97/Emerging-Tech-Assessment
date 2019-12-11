@@ -1,12 +1,20 @@
-# Emerging-Tech-Assessment
-## Research
+# Research
+* Usman Sattar
+* G00345816@gmit.ie
+### Purpose:
+When Completed, the application should predict a number from 0-9 which the user draws with his or her mouse. It should take in the number which any user draws and print it back stating what that number was. 
+
 ### Definition of Machine Learning
 
-Machine learning is a method of data analysis that automates analytical model building. It is a branch of artificial intelligence based on the idea that systems can learn from data, identify patterns and make decisions with minimal human intervention.
+Machine learning is a method of data analysis that automates analytical model building. It is a branch of artificial intelligence based on the idea that systems can learn from data, identify patterns and make decisions with minimal human intervention. Machine learning involves you a developer to train a model. For example, training a model to recognise digits.
 
-Machine learning involves you a developer to train a model. For example, training a model to recognise digits.
+![Image description](https://s3.amazonaws.com/keras.io/img/keras-logo-2018-large-1200.png)
+Keras is a high-level neural networks API, written in Python and capable of running on top of TensorFlow. Keras supports both convolutional networks and recurrent networks, as well as combinations of the two. It is designed to enable fast experimentation with deep neural networks. 
+Before installing Keras, I install one of its backend engines - In this project, I have used the TensorFlow backend, which is also recommened professionally.
 
-## Keras
+### References to Keras
+* https://keras.io/
+
 ### Neurons in keras 
 
 ```python
