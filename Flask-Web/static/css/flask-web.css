@@ -1,0 +1,43 @@
+body
+{
+    background-color: rgb(211, 228, 241);
+}
+
+#h1{
+    text-align: center;
+    color: red;
+}
+
+#canvasDiv
+{
+    margin: 0px auto;
+    text-align: center;
+    width: 350px;
+    height: 500px;
+    background-color: black;
+}
+#buttonDiv
+{
+    margin: 20px auto;
+    text-align: center;
+    padding: 20px;
+}
+
+#predictionBtn
+{
+    color: green;
+    text-align: center;
+    font-size: 20px;
+}
+
+#resetBtn
+{
+    color: red;
+    text-align: center;
+    font-size: 20px;
+}
+
+#prediction
+{
+    text-align: center;
+}
